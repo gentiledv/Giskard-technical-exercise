@@ -8,7 +8,7 @@ This repository contains the technical exercise required as part of Giskard's re
 
 -   **Discussion of what could be improved in Giskard's product.** This corresponds to "Requirement 4" of the original technical exercise link. I generally enjoyed using Giskard and reading the documentation, so I can only share a few thoughts regarding potential room of improvement, rather than flaws. My comments are included in the file "feedback".
 
-Thank you for your time for checking my exercise.
+Thank you for your time for checking my exercise 😊.
 
 Best regards,
 
