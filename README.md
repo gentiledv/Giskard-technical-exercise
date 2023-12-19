@@ -1,6 +1,6 @@
 ## Technical exercise - Data Science lead \@ Giskard
 
-This repository contains the technical exercise required as part of Giskard's recruitment process. The exercise includes the following items:
+This repository contains the items for the technical exercise required as part of Giskard's recruitment process. The items include:
 
 -   **Creation of a Python model for text generation, and evaluation via Giskard's Python library along with use of Giskard's server.** This corresponds to "Requirements 1 and 2" of the original technical exercise link. This part of the requirements is addressed in the file "AI-Audit-Report-Question-Answering.html". I've opted for the creation and evaluation of a language model that answers questions about the latest trends in third-party AI audits based on a 2023 report by the Regulatory Governance Initiative (you can find the report among the files in this repository). To view the final notebook along with the outputs, please download the "AI-Audit-Report-Question-Answering.html" file and open it with your browser of choice.
 
