@@ -6,9 +6,9 @@ This repository contains the items for the technical exercise required as part o
 
 -   **Creation of piece of content to explain the value of Giskard.** This corresponds to "Requirement 3" of the original technical exercise link. I opted for a blog post created with Quarto. To view the blog post, please download the file named "Ensuring-AI-quality-with-Giskard.html" and open it with your browser of choice.
 
--   **Discussion of what could be improved in Giskard's product.** This corresponds to "Requirement 4" of the original technical exercise link. I generally enjoyed using Giskard and reading the documentation, so I can only share a few thoughts regarding potential room of improvement, rather than flaws. My comments are included in the file "Feedback".
+-   **Discussion of what could be improved in Giskard's product.** This corresponds to "Requirement 4" of the original technical exercise link. I generally enjoyed using Giskard and reading the documentation, so I can only share a few thoughts regarding potential room of improvement, rather than flaws. My comments are included in the file "Feedback". I've included both a markdown and html file: the markdown for a quick read, and the html to visualize the example I reference.
 
-Thank you for your time for checking my exercise 😊.
+Thank you for taking the time 😊.
 
 Best regards,
 
