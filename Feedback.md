@@ -44,7 +44,7 @@ Here are some points that stood out to me during the evaluation:
         outputs (i.e., column 2 and 4?).
 
 ![Example of potentially incorrect output in the evaluation
-interface.](OneDrive/Pictures/Catture%20di%20schermata/gis-feedback.png)
+interface.](gis-feedback.png)
 
 1.  **Missing Link in Blog Post:**
 
