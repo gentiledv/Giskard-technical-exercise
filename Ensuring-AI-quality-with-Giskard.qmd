@@ -2,7 +2,8 @@
 title: "Ensuring AI quality with Giskard"
 subtitle: "The first collaborative and open-source software for high-quality AI"
 author: "Davide Gentile, Data Science lead @ Giskard"
-format: html
+format: 
+    html:
     code-tools: true
     self-contained: true
 editor: visual
